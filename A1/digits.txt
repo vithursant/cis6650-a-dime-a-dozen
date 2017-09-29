@@ -1,0 +1,6 @@
+00000   11111   22222   33333   44444   55555   66666   77777   88888   99999
+ XXX      X      XXX     XXX       X    XXXXX    XXX    XXXXX    XXX     XXX 
+X   X    XX         X       X     XX    X       X          X    X   X   X   X
+X   X     X        X     XXX     X X    XXXX    XXXX      X      XXX     XXXX
+X   X     X       X         X   XXXXX       X   X   X    X      X   X       X
+ XXX     XXX    XXXXX    XXX       X    XXXX     XXX    X        XXX     XXX 
