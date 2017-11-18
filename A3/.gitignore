@@ -1,0 +1,5 @@
+*.pkl
+*.csv
+*.pyc
+*.DS_Store
+*.py~
